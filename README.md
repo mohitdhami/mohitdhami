@@ -1,7 +1,3 @@
-# 💫 About Me:
-Passionate about technology and driven to learn, I am a dedicated Computer science engineering student with a deep passion for coding and programming, I am excited to explore new opportunities in the tech industry. With my upcoming graduation in 2024 and a strong foundation in key programming languages like Java, Python, JavaScript and C++, I am confident in my ability to tackle complex projects and build innovative software solutions. With a keen eye for detail and a commitment to quality, I am eager to leverage my skills to make a positive impact in the industry.  Let's connect and see how we can work together to create something great!
-
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/instagram.com/mohitdhamii) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/mohitdhami) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@youtube.com/mohitdhami) 
 
@@ -17,6 +13,3 @@ Passionate about technology and driven to learn, I am a dedicated Computer scien
 
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://www.buymeacoffee.com/mohitdhami) 
-
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
