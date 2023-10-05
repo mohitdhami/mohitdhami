@@ -1,4 +1,9 @@
-### Greetings! I am Mohit, a final year computer science student with aspirations of becoming a Software Engineer. I come equipped with a solid foundation in programming, adept knowledge of data structures, and a knack for problem-solving.🚀
+## About Me
+**Mohit Singh Dhami** (He/Him) <br>
+mohitdhamipth24@gmail.com
+### **Education**
+B.Tech CSE, Graphic Era Hill Univeristy <br>
+Dehradun (UK), India
 
 ## 🌐 Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mohitdhamii) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohitdhami) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/mohitdhami) 
