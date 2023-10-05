@@ -1,4 +1,3 @@
-## About Me
 **Mohit Singh Dhami** (He/Him) <br>
 mohitdhamipth24@gmail.com
 ### **Education**
