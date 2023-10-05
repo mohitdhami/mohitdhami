@@ -1,8 +1,9 @@
 **Mohit Singh Dhami** (He/Him) <br>
 mohitdhamipth24@gmail.com
 ### **Education**
-B.Tech CSE, Graphic Era Hill Univeristy <br>
-Dehradun (UK), India
+B.Tech Computer Science & Engineering <br>
+Graphic Era Hill University, Dehradun <br>
+Uttarakhand, India
 
 ## 🌐 Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mohitdhamii) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohitdhami) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/mohitdhami) 
