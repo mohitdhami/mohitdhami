@@ -5,9 +5,6 @@ Full Stack Engineer
 Computer Science & Engineering (Bachelor's Degree) <br>
 Graphic Era Hill University, Dehradun
 
-- **Initiatives** <br>
-Bootloop.org, dragger.club
-
 - **Email** <br>
 mohitdhami@proton.me
 ## 🌐 Socials
