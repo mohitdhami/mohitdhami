@@ -1,10 +1,6 @@
 - **Mohit Singh Dhami** (He/Him) <br>
 Full Stack Engineer
 
-- **Education** <br>
-Computer Science & Engineering (Bachelor's Degree) <br>
-Graphic Era Hill University, Dehradun
-
 - **Email** <br>
 mohitdhami@proton.me
 ## 🌐 Socials
